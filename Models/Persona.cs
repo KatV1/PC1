@@ -7,7 +7,6 @@ namespace PC1.Models
     [Table("t_persona")]
     public class Persona
     {
-        private string _author="";
         // [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
 
@@ -37,12 +36,6 @@ namespace PC1.Models
         [NotMapped]
         public string Respuesta { get; set; }
 
-        public string Author { 
-            get => _author;
-            set
-            {
-                _author = "Kat";
-            }
-        }
+        public string Author { get; set;}
     }
 }

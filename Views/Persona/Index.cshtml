@@ -47,16 +47,22 @@
         
         <div class="form-group">
             <label asp-for="Sexo" class="control-label"></label>
-            <div class="checkbox" >
-                <label><input asp-for="Sexo" type="radio" name="optradio" value="F" checked> Femenino</label>
+            <div class="form-check" >
+                <label><input asp-for="Sexo" type="radio" value="F" checked> Femenino</label>
             </div>
-            <div class="checkbox">
-                <label><input asp-for="Sexo" type="radio" name="optradio" value="M"> Masculino</label>
+            <div class="form-check">
+                <label><input asp-for="Sexo" type="radio" value="M"> Masculino</label>
             </div>
             </textarea>
         </div>
+
         <div class="form-group">
-            <input type="submit" value="Registrar"/>
+            <label asp-for="Author" class="control-label"></label>
+            <input asp-for="Author" class="form-control" value = "Katherine Valcárcel" readonly/>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Registrar"/>
         </div>
     </form>
 
