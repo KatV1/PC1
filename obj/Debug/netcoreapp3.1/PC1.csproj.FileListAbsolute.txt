@@ -35,61 +35,81 @@
 /Users/kat/Downloads/Programacion/PC1/obj/Debug/netcoreapp3.1/PC1.genruntimeconfig.cache
 /Users/kat/Downloads/Programacion/PC1/obj/Debug/netcoreapp3.1/PC1.csproj.CopyComplete
 /Users/kat/Downloads/Programacion/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Persona/Index.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.exe
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.deps.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.runtimeconfig.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.runtimeconfig.dev.json
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.pdb
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.Views.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\PC1.Views.pdb
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\katva\Docs Off\PC1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.csprojAssemblyReference.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.AssemblyInfoInputs.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.AssemblyInfo.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.csproj.CoreCompileInputs.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.RazorAssemblyInfo.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.RazorAssemblyInfo.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.TagHelpers.input.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.TagHelpers.output.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.RazorCoreGenerate.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Persona\Index.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.RazorTargetAssemblyInfo.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.RazorTargetAssemblyInfo.cs
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.Views.pdb
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.csproj.CopyComplete
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\staticwebassets\PC1.StaticWebAssets.Manifest.cache
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\staticwebassets\PC1.StaticWebAssets.xml
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.dll
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.pdb
-C:\Users\katva\Docs Off\PC1\obj\Debug\netcoreapp3.1\PC1.genruntimeconfig.cache
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.exe
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.deps.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.runtimeconfig.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.runtimeconfig.dev.json
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.pdb
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.Views.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/PC1.Views.pdb
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Npgsql.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/katva/Docs Off/PC1/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.csprojAssemblyReference.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.AssemblyInfoInputs.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.AssemblyInfo.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.csproj.CoreCompileInputs.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.RazorAssemblyInfo.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.RazorAssemblyInfo.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.TagHelpers.input.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.TagHelpers.output.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.RazorCoreGenerate.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Persona/Index.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.RazorTargetAssemblyInfo.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.RazorTargetAssemblyInfo.cs
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.Views.pdb
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.csproj.CopyComplete
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/staticwebassets/PC1.StaticWebAssets.Manifest.cache
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/staticwebassets/PC1.StaticWebAssets.xml
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.dll
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.pdb
+C:/Users/katva/Docs Off/PC1/obj/Debug/netcoreapp3.1/PC1.genruntimeconfig.cache
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/kat/Downloads/Programacion/PC1/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll

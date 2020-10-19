@@ -757,30 +757,29 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Microsoft.EntityFrameworkCore >= 3.1.4",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 3.1.4"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\katva\\.nuget\\packages\\": {}
+    "/Users/kat/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katva\\Docs Off\\PC1\\PC1.csproj",
+      "projectUniqueName": "/Users/kat/Downloads/Programacion/PC1/PC1.csproj",
       "projectName": "PC1",
-      "projectPath": "C:\\Users\\katva\\Docs Off\\PC1\\PC1.csproj",
-      "packagesPath": "C:\\Users\\katva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katva\\Docs Off\\PC1\\obj\\",
+      "projectPath": "/Users/kat/Downloads/Programacion/PC1/PC1.csproj",
+      "packagesPath": "/Users/kat/.nuget/packages/",
+      "outputPath": "/Users/kat/Downloads/Programacion/PC1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\katva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kat/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -797,6 +796,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.1.4, )"
+          },
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
             "version": "[3.1.4, )"
@@ -820,7 +823,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
