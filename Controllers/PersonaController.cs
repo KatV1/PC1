@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PC1.Models;
+using PC1.Data;
 
 namespace PC1.Controllers
 {
     public class PersonaController : Controller
     {
         private readonly ILogger<PersonaController> _logger;
+        private readonly DatabaseContext _context;
 
-        public PersonaController(ILogger<PersonaController> logger)
+        public PersonaController(ILogger<PersonaController> logger, DatabaseContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
@@ -28,6 +31,8 @@ namespace PC1.Controllers
         {
             if (ModelState.IsValid)
             {
+                _context.Add(persona);
+                _context.SaveChanges();
                 persona.Respuesta= persona.Nombre + ", tus datos han sido registrados por Kat Valcárcel.";
             }         
             return View("index", persona);
