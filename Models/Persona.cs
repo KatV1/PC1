@@ -1,10 +1,16 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PC1.Models
 {
+    [Table("t_persona")]
     public class Persona
     {
+        private string _author="";
+        // [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int ID { get; set; }
+
         [Required(ErrorMessage = "Por favor, ingrese nombre")]
         [Display(Name="Nombre")]
         public string Nombre { get; set; }
@@ -26,8 +32,17 @@ namespace PC1.Models
         public int Edad { get; set; }
 
         [Display(Name="Sexo")]
-        public char Sexo { get; set; }
+        public string Sexo { get; set; }
         
+        [NotMapped]
         public string Respuesta { get; set; }
+
+        public string Author { 
+            get => _author;
+            set
+            {
+                _author = "Kat";
+            }
+        }
     }
 }

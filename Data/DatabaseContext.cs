@@ -7,7 +7,8 @@ namespace PC1.Data
 {
     public class DatabaseContext : DbContext
     {
-        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
+        public DatabaseContext(DbContextOptions<DatabaseContext> options) 
+        : base(options)
         {}
 
         public DbSet<PC1.Models.Persona> Personas { get; set; }

@@ -33,7 +33,7 @@ namespace PC1.Controllers
             {
                 _context.Add(persona);
                 _context.SaveChanges();
-                persona.Respuesta= persona.Nombre + ", tus datos han sido registrados por Kat Valcárcel.";
+                persona.Respuesta = persona.Nombre + ", tus datos han sido registrados por " + persona.Author + ".";
             }         
             return View("index", persona);
         }
