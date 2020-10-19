@@ -31,6 +31,7 @@ namespace PC1.Controllers
         {
             if (ModelState.IsValid)
             {
+                persona.Author="Kat Valcárcel";
                 _context.Add(persona);
                 _context.SaveChanges();
                 persona.Respuesta = persona.Nombre + ", tus datos han sido registrados por " + persona.Author + ".";
