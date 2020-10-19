@@ -21,6 +21,7 @@ namespace PC1.Models
         public string Banco { get; set; }
 
         [Required(ErrorMessage = "Por favor, ingrese su edad")]
+        [Range(18, 150, ErrorMessage = "Debe tener una edad entre 18 y 150 años")]
         [Display(Name="Edad")]
         public int Edad { get; set; }
 
