@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/kat/.dotnet/store/|arch|/|tfm|",
-      "/Users/kat/.nuget/packages"
+      "C:\\Users\\katva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\katva\\.nuget\\packages"
     ]
   }
 }
